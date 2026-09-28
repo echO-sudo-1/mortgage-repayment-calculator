@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.input-error {
+  border-color: hsl(4, 69%, 50%) !important;
+}
