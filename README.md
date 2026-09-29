@@ -1,6 +1,6 @@
 # Frontend Mentor - Mortgage repayment calculator
 
-live:  https://echo-sudo-1.github.io/mortgage-repayment-calculator/
+live:  
 
 ![Design preview for the Mortgage repayment calculator coding challenge](./preview.jpg)
 
